@@ -16,7 +16,6 @@ header {
   max-width: 1440px;
   position: absolute;
   display: flex;
-
   padding: 1vw 0;
   align-items: center;
   justify-content: space-between;
@@ -67,7 +66,6 @@ ul {
   padding: 0vw;
   gap: 3vw;
   list-style: none;
-  
 }
 
 a,
@@ -86,7 +84,7 @@ a,
 main {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: 90vh 90vh;
+  grid-template-rows: 78vh 78vh;
 }
 
 .name {
